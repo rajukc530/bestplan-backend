@@ -1,0 +1,14 @@
+{
+  "name": "css-swagger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "express-swagger-generator": "^1.1.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": ""
+}
